@@ -1,6 +1,6 @@
 import XCTest
-@testable import uuidTests
+@testable import UUIDTestSuite
 
 XCTMain([
-     testCase(uuidTests.allTests),
+    testCase(UUIDTests.allTests),
 ])

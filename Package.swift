@@ -1,5 +1,3 @@
 import PackageDescription
 
-let package = Package(
-    name: "uuid"
-)
+let package = Package(name: "UUID")
